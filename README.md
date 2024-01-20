@@ -77,8 +77,8 @@ Finally you need to install PostgreSQL and input the database configs into the f
 You just need to run the start.bat in the main folder and then enjoy the new bot.  
 
 ## Developers
-Functions and Logic Part: seven-6174
-Imagination Drawing: songelar
-Project All Rights Reserved by Sumilarise Team (2023-2024)
+Functions and Logic Part: seven-6174  
+Imagination Drawing: songelar  
+Project All Rights Reserved by Sumilarise Team (2023-2024)  
 
 Chairman of SUMILARISE: Azithromycin ( Page Editor )
