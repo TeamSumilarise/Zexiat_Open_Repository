@@ -1,3 +1,5 @@
+[English](README.md)|[简体中文](README_zh.md)
+
 # ZEXIAT OPEN REPOSITORY
 ## Introduction
 Zexiat is a QQ Bot developed by the team Sumilarise.
