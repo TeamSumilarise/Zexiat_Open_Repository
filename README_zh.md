@@ -1,5 +1,6 @@
 [简体中文](README_zh.md)|[English](README.md)
 
+
 # ZEXIAT OPEN REPOSITORY
 ## 关于
 zexiat是Sumilarise溯昇团队开发的QQ机器人
@@ -15,10 +16,8 @@ zexiat是Sumilarise溯昇团队开发的QQ机器人
 ## 这是什么
 这是Zexiat Bot Beta版本的仓库
 
-
 ## 功能列表
 懒得写
-
 
 ## Bot部署
 ### 环境需求
