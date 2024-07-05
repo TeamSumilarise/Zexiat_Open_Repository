@@ -1,4 +1,4 @@
-[English](README.md)|[简体中文](README_zh.md)
+[简体中文](README_zh.md)|[English](README.md)
 
 # ZEXIAT OPEN REPOSITORY
 ## 关于
