@@ -9,6 +9,7 @@ zexiat是Sumilarise溯升团队开发的QQ机器人
 + OpenShamrock版本: Shamrock-v1.0.9.r429.2db187e-all
 + PostgreSQL版本: 14.4
 + MuMu模拟器版本:3.1.50
+
 [About(与bot内about内容相同)](about.md)
 
 ## 这是什么
