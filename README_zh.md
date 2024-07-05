@@ -2,7 +2,7 @@
 
 # ZEXIAT OPEN REPOSITORY
 ## 关于
-zexiat是Sumilarise溯升团队开发的QQ机器人
+zexiat是Sumilarise溯昇团队开发的QQ机器人
 本Bot基于Python Nonebot2 OpenShamrock PostgreSQL MuMu模拟器
 + Python版本: 3.9.6
 + NoneBot2版本: 2.1.3
